@@ -1,0 +1,4 @@
+Note if you are using Windows then pull out the Losa browser folder out of the Losa.Browser.Windows folder or it will not work
+
+✅ Downloads/Losa Browser
+❎ Downloads/Losa.Browser.Windows
