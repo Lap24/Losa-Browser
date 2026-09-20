@@ -1,0 +1,4 @@
+1st install SearXNG https://docs.searxng.org/ OR https://github.com/searxng/searxng
+Use Zrok or any other HTTP tunnel https://zrok.io/
+Use that http and replace the URL from https://losabrowser.share.zrok.io/search?q= to https://your-tunnels-or-domain.com/search?q= on line 255 for V1.0
+Thats It
